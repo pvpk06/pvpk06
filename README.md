@@ -1,5 +1,5 @@
-<h3 align="center">Hello folks... Praveen HERE...</h3>
-
+<h2 align="center" color="black">Hello folks... Praveen HERE...</h2>
+<a<img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="30" width="40" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvpk06" alt="pvpk06" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
