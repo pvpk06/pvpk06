@@ -1,4 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishnu-vardhan56.vishnu-vardhan56" />
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7F423&random=false&width=435&lines=Hello+folk...;Praveen+here..." />
-    ![](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Vishnu!;" />
 </h1>
