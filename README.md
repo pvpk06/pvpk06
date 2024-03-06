@@ -12,13 +12,13 @@
 <div>
 <br/> 
 <div>
-	<a> Programming Languages-</a>
+	<a> Programming Languages-</a><br/>
 			<a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height=40 width=40  ></a> <a><img src="https://img.freepik.com/premium-vector/sql-structured-query-language-icon-label-internet-security-networking-vector-stock-illustration_100456-10733.jpg" height=40 width=40  > </a><br/>
-	<a>Frameworks & Packages-</a>
+	<a>Frameworks & Packages-</a><br/>
 			<a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" height=40 width=40  > </a> <br/>
-<a>Databases-</a>
+<a>Databases-</a><br/>
 <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height=40 width=40  > </a> <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVzWk1EB_DUNA5OBe1giw-CErbGYsfbnnLbuGwn_Lbw&s" height=40 width=40  ></a> <br/>
-<a>Tools & Programming IDE'S-</a> 
+<a>Tools & Programming IDE'S-</a> <br/>
 			<a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Atom.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height=40 width=40  ></a> 
 </div>
 <a><b>I'm interested in... </b> </a>
