@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="column">
+  <div class="column"align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA00&random=false&width=435&lines=Hello+folk...;Praveen+here...">
   </div>
   <div class="column">
