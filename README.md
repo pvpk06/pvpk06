@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA56&random=false&width=435&lines=Hello+folk...;Praveen+here...">
     <img height=100 width=100 src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   </div> <br/>
+$${\color{lightgreen}Light \space Green}
 <div style="color:darkblue; font-size:160%; font:Courier">
 <b style="font-size:120%">About me</b> <br/>
 ➢ I'm Praveen Kumar, A tech enthusiast.<br/>
@@ -18,7 +19,7 @@
 <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height=40 width=40  > </a> <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVzWk1EB_DUNA5OBe1giw-CErbGYsfbnnLbuGwn_Lbw&s" height=40 width=40  ></a> <br/>
 <a>Tools & Programming IDE'S-</a> <br/>
 			<a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Atom.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" height=40 width=40  > </a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height=40 width=40  ></a> <br/>
-<a>Operating Systems-</a> <br/>
+@@ Operating Systems <br/>
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm8JSVmtqaFizcLQKzweWW4K9Jlz7xvWIoJkJIytF0A&s" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" height=40 width=40  > </a>
 </div>
 <br/>
@@ -36,5 +37,4 @@
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/LinkedIn.svg" height=50 width=50 ></a> <a> <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height=50 width=50 ></a><a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Gmail-Dark.svg" height=50 width=50 ></a><a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" height=50 width=50 ></a>
 </p>
 </div>
-
-
+$$
