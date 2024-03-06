@@ -21,14 +21,15 @@
 <a>Operating Systems-</a> <br/>
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm8JSVmtqaFizcLQKzweWW4K9Jlz7xvWIoJkJIytF0A&s" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" height=40 width=40  ></a> <a><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" height=40 width=40  > </a>
 </div>
+<br/>
 <div>
 <a><b>I'm interested in... </b> </a>
 <br/>
-<a><img src="https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg" height=100 width=100 style="border: #00008B 4px solid;" ></a> <a><img src="https://t4.ftcdn.net/jpg/03/98/18/19/360_F_398181949_BudYmmAeTPJwDz6HMxwf1PL3ZNIblohm.jpg" height=100 width=100 style="border: #00008B 4px solid;" ></a> <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmYh4ieBEdvqO2zBzqUK7DZ8o3Y6gR9HmbEh0d16T1A&s" height=100 width=100 style="border: #00008B 4px solid;" ></a> 	<a><img src="https://png.pngtree.com/png-vector/20230112/ourmid/pngtree-blockchain-vector-transparent-image-png-image_6560354.png" height=100 width=100 style="border: #00008B 4px solid;" ></a>
-<a><img src="https://w7.pngwing.com/pngs/42/492/png-transparent-inspector-computer-security-malware-computer-icons-attack-security-hacker-cyber-miscellaneous-computer-network-hat-thumbnail.png" height=100 width=100 style="border: #00008B 4px solid;" ></a> <a><img src="https://as1.ftcdn.net/v2/jpg/01/74/05/82/1000_F_174058271_6j3kLUww2hzt5zvXGoeKkPwM1Oc4jkBf.jpg" height=100 width=100 style="border: #00008B 4px solid;" ></a> 
+<a><img src="https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg" height=70 width=70 style="border: #00008B 4px solid;" ></a> <a><img src="https://t4.ftcdn.net/jpg/03/98/18/19/360_F_398181949_BudYmmAeTPJwDz6HMxwf1PL3ZNIblohm.jpg" height=70 width=70 style="border: #00008B 4px solid;" ></a> <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmYh4ieBEdvqO2zBzqUK7DZ8o3Y6gR9HmbEh0d16T1A&s" height=70 width=70 style="border: #00008B 4px solid;" ></a> 	<a><img src="https://png.pngtree.com/png-vector/20230112/ourmid/pngtree-blockchain-vector-transparent-image-png-image_6560354.png" height=70 width=70 style="border: #00008B 4px solid;" ></a> <a><img src="https://w7.pngwing.com/pngs/42/492/png-transparent-inspector-computer-security-malware-computer-icons-attack-security-hacker-cyber-miscellaneous-computer-network-hat-thumbnail.png" height=70 width=70 style="border: #00008B 4px solid;" ></a> <a><img src="https://as1.ftcdn.net/v2/jpg/01/74/05/82/1000_F_174058271_6j3kLUww2hzt5zvXGoeKkPwM1Oc4jkBf.jpg" height=70 width=70 style="border: #00008B 4px solid;" ></a> 
 <!-- <a><img src="https://w7.pngwing.com/pngs/42/492/png-transparent-inspector-computer-security-malware-computer-icons-attack-security-hacker-cyber-miscellaneous-computer-network-hat-thumbnail.png" height=120 width=120 style="border: #00008B 4px solid;" ></a> <a><img src="https://w7.pngwing.com/pngs/42/492/png-transparent-inspector-computer-security-malware-computer-icons-attack-security-hacker-cyber-miscellaneous-computer-network-hat-thumbnail.png" height=120 width=120 style="border: #00008B 4px solid;" ></a> -->
 </div>
 </div>
+<br/>
 <div>
 <p align="left" font-size=100%>
 <a><b>Social media</b> </a> <br/>
