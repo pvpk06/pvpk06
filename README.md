@@ -1,9 +1,8 @@
 <div >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA56&random=false&width=435&lines=Hello+folk...;Praveen+here...">
-    <img height=100 width=100 src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA56&random=false&width=435&lines=Hello+folk...;Praveen+here..."><img height=100 width=100 src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   </div> <br/>
-$${\color{lightgreen}Light \space Green}
-<div style="color:darkblue; font-size:160%; font:Courier">
+<code style="color : blue">
+<div>
 <b style="font-size:120%">About me</b> <br/>
 ➢ I'm Praveen Kumar, A tech enthusiast.<br/>
 ➢ Persuing my Graduation final year.<br/>
@@ -37,4 +36,4 @@ $${\color{lightgreen}Light \space Green}
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/LinkedIn.svg" height=50 width=50 ></a> <a> <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height=50 width=50 ></a><a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Gmail-Dark.svg" height=50 width=50 ></a><a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" height=50 width=50 ></a>
 </p>
 </div>
-$$
+</code>
