@@ -3,12 +3,11 @@
     <img height=100 width=100 src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
   </div> <br/>
 <div style="color:darkblue; font-size:160%; font:Courier">
-    <b>Little about me...</b> <br/>
-    <p align="centerleft">
+    <h3><b>Little about me...</b></h3>
+    <p>
     ➢ I'm Praveen Kumar, A tech enthusiast.<br/>
     ➢ Persuing my Graduation final year.<br/>
     ➢ Currently working on a Deep learning project.<br/>
-
    </p>
 </div>
 
@@ -85,18 +84,18 @@
 <div>
 	<p align="left" font-size=100%>
 	<a><h3><b>Social media</b></h3></a>
-	<a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/LinkedIn.svg" height=50 width=50></a>
-	<a><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height=50 width=50></a>
-	<a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Gmail-Dark.svg" height=50 width=50></a>
-	<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" height=50 width=50 ></a>
+	<a href="https://www.linkedin.com/in/pvpk06"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/LinkedIn.svg" height=50 width=50></a>
+	<a href="https://pvpk.tech/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" height=50 width=50></a>
+	<a href="https://mail.google.com/mail/u/2/#inbox?compose=DXDwSWwtwpfdQqjzRnSHXJsLHPgDPtnwgvKzvRXZVtdCjXPwWbDdjVZHknmnbTGWjbWCbRGTzHWzLDCTmSxLnRfjKcrgHSlwFxkxxnZHJfSxblJFjhPdqxvV"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Gmail-Dark.svg" height=50 width=50></a>
+	<a href="https://www.facebook.com/venkatapraveenkumar.pusapati/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" height=50 width=50 ></a>
 	</p>
 </div>
 
 <div>
 <br/>
 	<h3>My Stats</h3>
-	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pvpk06&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=false&bg_color=000000&title_color=F7CA56&icon_color=F7CA56" height="192px"  width="500px">
-	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pvpk06&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=000000&title_color=F7CA56&icon_color=F7CA56" height="192px">
+	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pvpk06&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=false&bg_color=000000&title_color=F7CA56&icon_color=F7CA56" height="202px"  width="400px">
+	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pvpk06&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=000000&title_color=F7CA56&icon_color=F7CA56" height="202px"  width="400px">
 				<br/>
 	<h4><b>My Contribution Graph</b></h4>
 	<img src="https://github-readme-activity-graph.vercel.app/graph/?username=pvpk06&bg_color=000000&color=F8D866&line=F7CA56&point=000000&hide_border=false" height="350px" width="900px"> 
