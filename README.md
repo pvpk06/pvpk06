@@ -63,7 +63,7 @@
 </div>
 <br/>
 <details>
-    <summary><h3>Tech Interests</h3></summary>
+    <summary><b>Tech Interests</b></summary>
 	<div>
 		<p>
 		<a><b>I'm interested in... </b></a>
@@ -102,7 +102,7 @@
 		<br/>
 		<br/>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA56&random=false&width=470&height=60&lines=Thanks+for+visiting...;Hope+you+liked+my+profile...;Consider+giving+a+%E2%AD%90..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Garamond&weight=700&size=40&pause=1000&color=F7CA56&random=false&width=470&height=60&lines=Thanks+for+visiting...;Hope+you+liked+my+profile...;"/>
 	<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="100px" width="100px">
 </div>
 		<br/>
