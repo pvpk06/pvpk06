@@ -5,8 +5,8 @@
     <h3><b>Who i am...</b></h3>
     <p>
     ➢ I'm Praveen Kumar, A tech enthusiast.<br/>
-    ➢ Persuing my Graduation final year.<br/>
-    ➢ Currently working on a Deep learning project.<br/>
+    ➢ Officially Graduated.<br/>
+    ➢ Currently working as a Full Stack Develooper & AI Researcher.<br/>
    </p>
 </div>
 
